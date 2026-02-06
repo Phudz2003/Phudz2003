@@ -18,7 +18,7 @@
 
 <!-- ===== ANIMATED IMAGE ===== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" />
 </p>
 
 

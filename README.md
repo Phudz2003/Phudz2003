@@ -19,7 +19,7 @@
 <!-- ===== ANIMATED IMAGE ===== -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%" />
 </p>
 
 
